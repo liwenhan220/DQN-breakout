@@ -1,7 +1,7 @@
 # DQN-breakout
 My first successful implementation of DQN on atari. (I had a much better version by switching the neural network implementation to PyTorch and using ddqn, but it was gone when I realize the files were not successfully copied into my USB drive after I erased the buggy linux mint system) On the brightside, my first successful version is stored on my windows systems
 
-# A set of dependencies that work
+# A set of dependencies that works
 python 3.8, gym==0.17.0 (important because the api of the older or newer versions are different), gym[atari], ale-py, tensorflow==2.0.0, matplotlib, opencv-python
 
 # Training model
